@@ -15,7 +15,7 @@
   <nav class="navbar navbar-expand-lg bg-primary border-bottom border-5 border-warning">
     <div class="container-fluid">
       <a class="navbar-brand text-white fw-bold" href="#">
-        <h1 class="mb-0"><i class="bi bi-fingerprint text-warning"></i><b>&nbsp; Kenvtse</b></h1>
+        <h1 class="mb-0"><i class="bi bi-fingerprint text-warning"></i><b>&nbsp; Repostek</b></h1>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
         aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
